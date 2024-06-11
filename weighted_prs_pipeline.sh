@@ -1,10 +1,5 @@
 #!/bin/bash
 
-# Load .env 
-#set -a
-#source .env
-#set +a
-
 # read .env file
 if [ -f .env ]
 then
