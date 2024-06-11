@@ -1,0 +1,8 @@
+SNPLISTFILE=/user/work/path/to/input/snplist/rsids.txt
+GENDIR=/path/to/genetic/data/dosage_bgen/
+OUTDIR=/user/work/path/to/output/
+SAMPLE=/path/to/sample/file/dosage_bgen/data.chr1-22_plink.sample
+BGEN=/user/work/path/to/output/genotype.bgen
+PGEN=/user/work/path/to/output/dosage
+SCORE=/user/work/path/to/input/weights.txt
+PRS=/user/work/path/to/output/prs
