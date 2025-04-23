@@ -16,7 +16,7 @@ Please note the pipeline is built on University of Bristol infrastructure, thoug
 ## Details 
 
 #### Input files
-Two input files are required to generate the weighted score: (1) a list of rsids (SNPLISTFILE) and (2) a two column file indicating the rsids and weights derived from a relevant GWAS (SCORE). Local storage of the ukb genetic and sample data are maintained by MRCIEU and are described elsewhere. 
+Two input files are required to generate the weighted score: (1) a list of rsids (SNPLISTFILE) and (2) a three column file indicating the rsids, effect_allele and weights derived from a relevant GWAS (SCORE). Local storage of the ukb genetic and sample data are maintained by MRCIEU and are described elsewhere. 
 
 #### Clone repo 
 To use the pipeline, clone the repo to your working directory on BC4: `git clone git@github.com:GenevieveLeyden/ukb.weighted.prs.git`. 
